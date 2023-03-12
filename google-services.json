@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707263104118",
+    "project_id": "pointsbin-96b2b",
+    "storage_bucket": "pointsbin-96b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707263104118:android:cd41e3763456ba86f04b57",
+        "android_client_info": {
+          "package_name": "com.example.pointsbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707263104118-b5a4kjqo5i8nn1phvjb2u9glvqabq329.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkeM1IxJJxQW1SkWAVNo7C6DXod5Xpl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707263104118-b5a4kjqo5i8nn1phvjb2u9glvqabq329.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
